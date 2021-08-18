@@ -9,8 +9,8 @@
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qrozrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrozrafa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=qrozrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrozrafa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block">
@@ -22,7 +22,7 @@
   <img align="center" alt="qroz-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
   <img align="center" alt="qroz-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="qroz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="qroz-yoda" height="132em" src="https://c.tenor.com/gVqz1FcrHD8AAAAd/the-mandalorian-mandalorian.gif">
+  <img align="right"  alt="qroz-yoda" height="132em" src="https://c.tenor.com/gVqz1FcrHD8AAAAd/the-mandalorian-mandalorian.gif">
 </div>
     <br>
   <div> 
