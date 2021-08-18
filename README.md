@@ -9,7 +9,7 @@
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=qrozrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api?username=qrozrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrozrafa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
