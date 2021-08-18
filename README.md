@@ -3,6 +3,8 @@
 
 - 🔭 hoje trabalho com front-end
 - 🌱 estudando typescript
+- 🌱 estudando java
+- 🌱 estudando javascript
 
 <div>
   <a href="https://github.com/qroz">
