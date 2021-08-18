@@ -5,6 +5,7 @@
 - 🌱 estudando typescript
 - 🌱 estudando java
 - 🌱 estudando javascript
+- 🌱 estudando php
 
 <div>
   <a href="https://github.com/qroz">
