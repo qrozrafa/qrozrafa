@@ -1,7 +1,7 @@
 ## E ai, sou Rafael de Queiroz
 
 
-- 🔭 hoje trabalho com front-end
+- 🔭 pretendo trabalhar com front-end
 - 🌱 estudando typescript
 - 🌱 estudando java
 - 🌱 estudando javascript
