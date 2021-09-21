@@ -5,6 +5,7 @@
 - 🌱 estudando typescript
 - 🌱 estudando java
 - 🌱 estudando javascript
+- 🌱 estudando HTML5 & CSS3
 <!-- - 🌱 estudando php -->
 
 <div style="display: flex">
