@@ -5,7 +5,7 @@
 - 🌱 estudando typescript
 - 🌱 estudando java
 - 🌱 estudando javascript
-- 🌱 estudando php
+<!-- - 🌱 estudando php -->
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
