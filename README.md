@@ -2,11 +2,11 @@
 
 
 - 🔭 pretendo trabalhar com front-end
-- 🌱 estudando typescript
-- 🌱 estudando java
-- 🌱 estudando javascript
-- 🌱 estudando HTML5 & CSS3
-<!-- - 🌱 estudando php -->
+- 🌱 typescript
+- 🌱 java
+- 🌱 javascript
+- 🌱 HTML5 & CSS3
+- 🌱 php
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
