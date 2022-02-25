@@ -1,7 +1,7 @@
 ## Olá, sou Rafael de Queiroz.
 
 
-### - 🔭front-end
+### - 🔭 front-end
   - 🌱 typescript
   - 🌱 java
   - 🌱 javascript
