@@ -2,11 +2,11 @@
 
 
 ### - 🔭front-end
-- 🌱 typescript
-- 🌱 java
-- 🌱 javascript
-- 🌱 HTML5 & CSS3
-- 🌱 php
+  - 🌱 typescript
+  - 🌱 java
+  - 🌱 javascript
+  - 🌱 HTML5 & CSS3
+  - 🌱 php
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
