@@ -1,7 +1,7 @@
-## E ai, sou Rafael de Queiroz
+## Olá, sou Rafael de Queiroz.
 
 
-- 🔭 pretendo trabalhar com front-end
+### - 🔭front-end
 - 🌱 typescript
 - 🌱 java
 - 🌱 javascript
