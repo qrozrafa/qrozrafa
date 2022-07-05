@@ -2,11 +2,11 @@
 
 
 ### - 🔭 front-end
-  - 🌱 javascript
-  - 🌱 typescript
-  - 🌱 react.js
+  - 🌱 Javascript
+  - 🌱 Typescript
+  - 🌱 React.js
   - 🌱 HTML5 & CSS3
-  - 🌱 node.js
+  - 🌱 Node.js
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
