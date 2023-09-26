@@ -8,7 +8,9 @@ Desenvolvedor frontEnd junior pela **Rural Business** imerso no front-End com a 
   - 🌱 Javascript
   - 🌱 Typescript
   - 🌱 React.js
+  - 🌱 Next.js
   - 🌱 Node.js
+  - 🌱 Nest.js
 
 <div style="display: flex">
   <a href="https://github.com/qroz">
