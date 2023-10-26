@@ -1,6 +1,6 @@
 ## Olá, sou Rafael de Queiroz.
 
-Desenvolvedor frontEnd junior pela **Rural Business** imerso no front-End com a utilização de React.js
+Desenvolvedor frontEnd junior pela **PsicoManager** imerso no front-End com a utilização de React.js
 
 
 ### - 🔭 front-end
