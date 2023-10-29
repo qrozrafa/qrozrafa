@@ -3,7 +3,7 @@
 Desenvolvedor frontEnd junior pela **PsicoManager** imerso no front-End com a utilização de React.js
 
 
-### - 🔭 front-end
+### - 🔭 full stack
   - 🌱 HTML5 & CSS3
   - 🌱 Javascript
   - 🌱 Typescript
