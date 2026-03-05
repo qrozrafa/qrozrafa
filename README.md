@@ -1,6 +1,6 @@
 ## Olá, sou Rafael de Queiroz.
 
-Desenvolvedor front-end pela **PsicoManager** imerso no front-end com a utilização de React.js
+Desenvolvedor pleno III pela **HeadsOn** imerso em node.js
 
 
 ### - 🔭 full stack
