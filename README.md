@@ -4,13 +4,14 @@ Desenvolvedor pleno III pela **HeadsOn** imerso em node.js
 
 
 ### - 🔭 full stack
-  - 🌱 HTML5 & CSS3
-  - 🌱 Javascript
   - 🌱 Typescript
   - 🌱 React.js
   - 🌱 Next.js
   - 🌱 Node.js
   - 🌱 Nest.js
+  - 🌱 PostgreSQL
+  - 🌱 Redis
+  - 🌱 Docker
 
 <!--<div style="display: flex">
   <a href="https://github.com/qroz">
