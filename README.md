@@ -18,10 +18,6 @@ Desenvolvedor pleno III pela **HeadsOn** imerso em node.js
   <img height="176em" src="https://github-readme-stats.vercel.app/api?username=qrozrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrozrafa&layout=compact&langs_count=7&theme=dark"/>
 </div>-->
-  
-  <div>
-    <img align="center" alt="qroz-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  </div>
     <br>
   <div> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
